@@ -1,6 +1,6 @@
 OpenBox Themes
 ==============
-A collection of OpenBox themes that are compatable with [a zuki-themes](https://github.com/lassekongo83/zuki-themes) by lassekongo83.
+A collection of OpenBox themes that are compatable with [zuki-themes](https://github.com/lassekongo83/zuki-themes) by lassekongo83.
 
 Requirements
 ============
